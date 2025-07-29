@@ -43,8 +43,8 @@ CORS: Used to enable cross-origin requests between the frontend and backend.
 
 📁 Project Structure
 
-real-time-chat-app/
-├── client-app/       # Frontend (React)
+chat-app/
+├── client/       # Frontend (React)
 │   ├── src/
 │   │   ├── App.js
 │   │   ├── Chat.js
@@ -66,27 +66,45 @@ Messages are displayed inside a styled chat window. I maintained the messages us
 Clone the Repository
 
 bash
+
 Copy
+
 Edit
+
 git clone https://github.com/your-username/real-time-chat-app.git
-cd real-time-chat-app
+
+cd chat-app
+
 Start the Backend
 
 bash
+
 Copy
+
 Edit
+
 cd server
+
 npm install
+
 node index.js
+
 Start the Frontend
 
 bash
+
 Copy
+
 Edit
-cd ../client-app
+
+cd ../client
+
 npm install
+
 npm start
+
 Test the Chat
+
 Open http://localhost:3000 in two separate tabs or devices. Try sending a message from one tab, and it will instantly appear in the other — demonstrating the real-time communication.
 
 ✨ Features Implemented
