@@ -137,5 +137,11 @@ Ensure component-based design and folder separation in full-stack applications
 
 Moreover, this project taught me to think about user interaction, performance, and scalability — all crucial for real-world web applications.
 
+##OUTPUT : 
+
+<img width="1876" height="888" alt="Image" src="https://github.com/user-attachments/assets/52c0e157-4899-4cd0-ada7-27551998ecdb" />
+
+<img width="1908" height="890" alt="Image" src="https://github.com/user-attachments/assets/8e377632-8bb6-4c5b-9a31-2cd2c4429ffe" />
+
 
 
